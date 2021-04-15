@@ -1,4 +1,5 @@
 ######
 
 def calc(a, b):
-	 a = a + b
+	 sum = a + b
+	 difference = a - b
