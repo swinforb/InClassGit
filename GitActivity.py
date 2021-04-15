@@ -1,4 +1,4 @@
 ######
 
 def calc(a, b):
-	 pass
+	 a = a + b
