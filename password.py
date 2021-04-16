@@ -6,6 +6,7 @@ import random
 def main():
 	size = sys.argv[1]
 	size = int(size)
+	password = ""
 
 
 
