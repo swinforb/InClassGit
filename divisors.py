@@ -7,7 +7,9 @@ def main():
 	num = number
 	while num != 0:
 		answer = number % num
-
+		if answer == 0:
+			print(num)
+		num = num - 1
 
 
 if __name__ == '__main__':
